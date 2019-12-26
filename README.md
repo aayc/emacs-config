@@ -1,3 +1,5 @@
+(modified from Doom Emacs)
+
 <a href="http://doomemacs.org">
   <img src="https://img.shields.io/github/tag/hlissner/doom-emacs.svg?label=release&style=for-the-badge&color=orange"  alt="Made with Doom Emacs">
 </a>
