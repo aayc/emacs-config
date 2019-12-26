@@ -793,7 +793,7 @@ compelling reason, so..."
   org-capture
   :preface
   ;; Change org defaults (should be set before org loads)
-  (defvar org-directory "~/org/")
+  (defvar org-directory "~/Organization/")
   (defvar org-attach-directory ".attach/")
   (defvar org-clock-persist-file (concat doom-etc-dir "org-clock-save.el"))
   (defvar org-publish-timestamp-directory (concat doom-cache-dir "org-timestamps/"))
